@@ -23,6 +23,6 @@
     
     <preference name="permissions" value="none"/>
 
-    <icon src="img/50SoupBowl.png" />
+    <icon src="img/500SoupBowl.png" />
 
 </widget>
